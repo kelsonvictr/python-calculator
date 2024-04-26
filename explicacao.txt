@@ -1,0 +1,10 @@
+CPU (Unidade Central de Processamento):
+Processamento de Instruções: A CPU processa todas as instruções do programa, incluindo operações aritméticas (como adição e multiplicação) e operações de controle (como loops e decisões condicionais).
+Execução de Código: O código Python é interpretado, e cada comando é convertido em instruções de máquina que a CPU executa.
+Memória RAM (Memória de Acesso Aleatório):
+Armazenamento de Dados Temporários: Variáveis como num1, num2, e user_input são armazenadas na RAM enquanto o programa está em execução.
+Rápido Acesso aos Dados: A RAM permite o acesso rápido aos dados necessários para o processamento atual, facilitando uma execução eficiente do programa.
+Disco Rígido:
+Armazenamento de Longo Prazo: Embora o disco rígido não seja usado diretamente pelo código em execução, é onde o programa seria armazenado quando não está em uso.
+Cache:
+Aceleração do Acesso a Dados: O cache da CPU pode ser usado para armazenar informações frequentemente acessadas, como partes do código que são executadas repetidamente, o que reduz o tempo necessário para acessar esses dados da RAM.
